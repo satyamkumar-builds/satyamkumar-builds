@@ -1,6 +1,6 @@
 # Hi, I'm Satyam Kumar 👋
 
-**BTech CSE student** @ Gaya College of Engineering, Bihar | **Founder @ [Line Free India](https://github.com/kumarsatyam9378-art/line-free-india-1.0)** — a queue-free Business & Healthcare SuperApp, live at [line-free-india.web.app](https://line-free-india.web.app)
+**BTech CSE student** @ Gaya College of Engineering, Bihar | **Founder @ [Line Free India](https://line-free-india.web.app)** — a queue-free Business & Healthcare SuperApp
 
 I build real products and grind DSA side by side. Currently exploring AI-powered tools and clean web experiences.
 
@@ -12,7 +12,6 @@ C • C++ • Python • HTML • CSS • JavaScript • TypeScript • React �
 
 ## 🚀 Featured Projects
 
-- **[Line Free India](https://github.com/kumarsatyam9378-art/line-free-india-1.0)** — Queue-free token system for salons, clinics & hospitals. Real-time Firebase sync, bilingual (EN/HI). Live in production with real users.
 - **[GaonSahayak-AI](https://github.com/satyamkumar-builds/GaonSahayak-AI)** — AI-powered guide to government schemes: check eligibility in Hindi or English and prepare application documents.
 - **[PromptDock](https://github.com/satyamkumar-builds/PromptDock)** — Beginner-friendly prompt library with reusable variables, token estimation and cost tracking.
 - **[CodeAtlas](https://github.com/satyamkumar-builds/CodeAtlas)** — TypeScript project, live at codeatlas.web.app.
