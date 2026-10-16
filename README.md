@@ -17,9 +17,14 @@ C • C++ • Python • HTML • CSS • JavaScript • TypeScript • React �
 - **[CodeAtlas](https://github.com/satyamkumar-builds/CodeAtlas)** — TypeScript project, live at codeatlas.web.app.
 - **[SIH 2026 — Smart Inspection System](https://github.com/satyamkumar-builds/SIH26095-Smart-Real-Time-Monitoring-Inspection)** — Real-time monitoring & inspection app with geo-tagged evidence and offline support. Built for Smart India Hackathon.
 
+## 📊 GitHub Stats
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satyamkumar-builds&layout=compact&theme=tokyonight&hide=Kotlin)
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=satyamkumar-builds&theme=tokyonight)
+
 ## 🤝 Connect with me
 
 - 💼 LinkedIn: [satyam-kumar-202b15417](https://www.linkedin.com/in/satyam-kumar-202b15417/)
 - 🚀 Startup: [Line Free India](https://line-free-india.web.app)
 
-⭐️ *Building in public. Learning in public.
+⭐️ *Building in public. Learning in public.*
