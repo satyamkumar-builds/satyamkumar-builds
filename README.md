@@ -37,6 +37,7 @@ I build real products and grind DSA side by side. Currently exploring AI-powered
 ## 📊 GitHub Stats
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satyamkumar-builds&layout=compact&theme=tokyonight&hide=Kotlin)
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=satyamkumar-builds&theme=tokyonight)
 
 ## 🤝 Connect with me
 
