@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=satyamkumar-builds&color=58A6FF&style=flat-square" alt="Profile views" />
 </p>
 
-**BTech CSE student** @ Gaya College of Engineering, Bihar | **Founder @ [Line Free India](https://line-free-india.web.app)** — a queue-free Business & Healthcare SuperApp
+**BTech CSE student** @ Gaya College of Engineering | **Founder @ [Line Free India](https://line-free-india.web.app)** — a queue-free Business & Healthcare SuperApp
 
 I build real products and grind DSA side by side. Currently exploring AI-powered tools and clean web experiences.
 
@@ -37,7 +37,6 @@ I build real products and grind DSA side by side. Currently exploring AI-powered
 ## 📊 GitHub Stats
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satyamkumar-builds&layout=compact&theme=tokyonight&hide=Kotlin)
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=satyamkumar-builds&theme=tokyonight)
 
 ## 🤝 Connect with me
 
